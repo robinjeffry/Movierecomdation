@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-import "./Modal.css";
+import "./modal.css";
 
 const Signup = ({ closeModal }) => {
   const [formData, setFormData] = useState({
