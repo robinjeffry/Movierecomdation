@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import Navbar from "./Navbar";
-import Login from "./Login";
+import Login from "./login";
 import Signup from "./Signup";
 import "./App.css";
 
