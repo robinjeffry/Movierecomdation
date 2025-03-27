@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import Navbar from "./Navbar";
 import Login from "./login";
-import Signup from "./Signup";
+import Signup from "./signup";
 import "./App.css";
 
 const App = () => {
